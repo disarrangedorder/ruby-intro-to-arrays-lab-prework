@@ -1,2 +1,4 @@
-instantiate_new_array = []
-return instantiate_new_array
+def instantiate_new_array
+  arr = []
+  return Array.new(len,val)
+end
