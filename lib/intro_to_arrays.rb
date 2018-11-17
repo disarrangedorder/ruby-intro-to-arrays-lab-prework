@@ -1,7 +1,7 @@
 def instantiate_new_array
-  Array.new(len,val)
+  Array.new
 
 
-  return Array.new(len,val)
+  return Array.new
 
 end
